@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous10062002" alt="anonymous10062002" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashish-Pal-Dev" alt="anonymous10062002" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish-Pal-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish-Pal-Dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
