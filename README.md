@@ -15,6 +15,8 @@
 
 - 📄 <a href="https://drive.google.com/file/d/1SryyNJXkrTdZ7mAKAhwc7muA5p4bxLZ4/view?usp=share_link">See My Resume</a>
 
+- 📄 <a href="[https://drive.google.com/file/d/1SryyNJXkrTdZ7mAKAhwc7muA5p4bxLZ4/view?usp=share_link](https://ashish-pal-dev.github.io/)">See My Portfolio</a>
+
 - ⚡ Strength **2600+ Hrs of DSA & Coding experience**
 
 <h3 align="left">Connect with me:</h3>
