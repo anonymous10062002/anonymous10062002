@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashishpal1717@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QZDunafvktYVfnS7QEtaQJXqNDE3AJCu/view?usp=sharing](https://drive.google.com/file/d/1QZDunafvktYVfnS7QEtaQJXqNDE3AJCu/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1SryyNJXkrTdZ7mAKAhwc7muA5p4bxLZ4/view?usp=share_link">See My Resume</a>
 
 - ⚡ Strength **2600+ Hrs of DSA & Coding experience**
 
